@@ -17,6 +17,11 @@ class crawlerbot():
 
     connexion = crawler.find_element_by_class_name("credentials_input_submit")
     connexion.click()
+    
+    #Pronote access
+    crawler.find_element_by_link_text("Vie scolaire").click()
+    crawler.find_element_by_link_text("Pronote").click()
+    #Ok now i need to copy the homeworks in a database, but how will i pull them out ?
 
 
 
