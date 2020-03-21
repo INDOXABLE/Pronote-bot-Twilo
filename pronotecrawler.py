@@ -12,8 +12,8 @@ class crawlerbot():
     motdepasse = crawler.find_element_by_class_name("credentials_input_password")
 
     
-    identifiant.send_keys("mehdi.benahmed1")
-    motdepasse.send_keys("kx49ba55&*")
+    identifiant.send_keys("**************")
+    motdepasse.send_keys("**********")
 
     connexion = crawler.find_element_by_class_name("credentials_input_submit")
     connexion.click()
