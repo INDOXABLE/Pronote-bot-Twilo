@@ -1,4 +1,4 @@
-# Pronote-bot-Twilo
+# English
 
 A bot taking data from a json file, and a crawler writing in it.
 
