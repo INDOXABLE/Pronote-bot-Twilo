@@ -6,5 +6,7 @@ Didn't finish it and everything is in french
 
 # Francais
  Un bot WhatsApp qui prend les données d'un crawler via un fichier json. Pas encore fini.
- 
- Un petit projet pour essayer de limiter les saturations de connexions à cause du coronavirus
+
+WhatsApp car jsp :\ . Apparament c'est la meilleure solution
+
+ Un projet pour essayer de limiter les saturations de connexions à cause du coronavirus
