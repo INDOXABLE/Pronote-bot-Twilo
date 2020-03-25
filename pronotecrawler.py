@@ -1,6 +1,8 @@
 import selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+import bs4
+from bs4 import BeautifulSoup
 
 class crawlerbot():
     crawler = webdriver.PhantomJS()
